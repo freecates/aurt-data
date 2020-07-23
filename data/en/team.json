@@ -29,24 +29,31 @@
     },
     {
       "id": "004",
+      "picture": "/static/equip/ivan-garcia-aurt-web.jpg",
+      "name": "Iván Garcia",
+      "title": "Kitchen",
+      "memberText": "EHTB, Disfrutar, Els Garrofers, Mint, Zero Zapatero"
+    },
+    {
+      "id": "005",
       "picture": "/static/equip/alba-llacena-aurt-web.jpg",
       "name": "Alba Llacera",
       "title": "Pastry",
       "memberText": "EHTB, Capritx, Tickets, Heart, Pakta"
     },
     {
-      "id": "005",
+      "id": "006",
       "picture": "/static/equip/mario-diana-aurt-web.jpg",
       "name": "Mario Diana",
       "title": "Sommelier",
       "memberText": "Ais London, Abac, Disfrutar"
     },
     {
-      "id": "006",
-      "picture": "/static/equip/joel-gomez-aurt-web.jpg",
-      "name": "Joel Gómez",
-      "title": "Sommelier",
-      "memberText": "Cavall Bernat, Capritx, Cett Sommelier, La Taverna Del Ciri, Enigma"
+      "id": "007",
+      "picture": "/static/equip/alina-bulavina-aurt-web.jpg",
+      "name": "Alina Bulavina",
+      "title": "Dinning room",
+      "memberText": "Mint Shanghai, Tres Sueños, Ma'i"
     }
   ]
 }

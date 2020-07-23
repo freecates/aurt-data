@@ -44,10 +44,17 @@
     },
     {
       "id": "006",
-      "picture": "/static/equip/joel-gomez-aurt-web.jpg",
-      "name": "Joel Gómez",
-      "title": "Sommelier",
-      "memberText": "Cavall Bernat, Capritx, Cett Sommelier, La Taverna Del Ciri, Enigma"
+      "picture": "/static/equip/alina-bulavina-aurt-web.jpg",
+      "name": "Alina Bulavina",
+      "title": "Sala",
+      "memberText": "Mint Shanghai, Tres Sueños, Ma'i"
+    },
+    {
+      "id": "007",
+      "picture": "/static/equip/ivan-garcia-aurt-web.jpg",
+      "name": "Iván Garcia",
+      "title": "Cocina",
+      "memberText": "EHTB, Disfrutar, Els Garrofers, Mint, Zero Zapatero"
     }
   ]
 }
