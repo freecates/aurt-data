@@ -1,0 +1,52 @@
+{
+  "id": "team",
+  "title": "Team",
+  "introText": "For this project <strong>Artur Martínez</strong> recovers part of the team from the last stage of Capritx and members of other stages. Young professionals committed to their profession and our gastronomic genetics. In addition, professionals of great experience, technique and projection are incorporated.",
+  "memberBlocks": [
+    {
+      "id": "001",
+      "picture": "/static/equip/pol-ruiz-masip-aurt-web.jpg",
+      "name": "Pol Ruiz",
+      "title": "Chef",
+      "memberText": "Joviat, Bardeni, Capritx, Disfrutar, Rasoterra, Sant Pau Tokio, La Taverna del Ciri, Alkimia",
+      "secondMemberText": "Creativity Award Catalonia Cooking Contest 2016 (Sant Pau)",
+      "instagram": "polruizmasip"
+    },
+    {
+      "id": "002",
+      "picture": "/static/equip/marc-cano-aurt-web.jpg",
+      "name": "Marc Cano",
+      "title": "2nd Chef",
+      "memberText": "Cett, Capritx, Sant Pau Tokio, La Taverna del Ciri, Alkimia",
+      "instagram": "marccano3"
+    },
+    {
+      "id": "003",
+      "picture": "/static/equip/xavi-romero-aurt-web.jpg",
+      "name": "Xavi Romero",
+      "title": "Kitchen",
+      "memberText": "Cavall Bernat, Capritx, Alkimia, Vivanda, Topik"
+    },
+    {
+      "id": "004",
+      "picture": "/static/equip/alba-llacena-aurt-web.jpg",
+      "name": "Alba Llacera",
+      "title": "Pastry",
+      "memberText": "EHTB, Capritx, Tickets, Heart, Pakta"
+    },
+    {
+      "id": "005",
+      "picture": "/static/equip/mario-diana-aurt-web.jpg",
+      "name": "Mario Diana",
+      "title": "Sommelier",
+      "memberText": "Ais London, Abac, Disfrutar"
+    },
+    {
+      "id": "006",
+      "picture": "/static/equip/joel-gomez-aurt-web.jpg",
+      "name": "Joel Gómez",
+      "title": "Sommelier",
+      "memberText": "Cavall Bernat, Capritx, Cett Sommelier, La Taverna Del Ciri, Enigma"
+    }
+  ]
+}

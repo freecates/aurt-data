@@ -1,0 +1,50 @@
+{
+  "id": "mai",
+  "title": "MAI",
+  "logo": "/static/logo-mai-daurat-web.png",
+  "class": "left",
+  "maiBlocks": [
+    {
+      "id": "001",
+      "bioText": "<strong>AÜRT</strong> cohabita amb un concepte més informat anomenat <strong>MA'I</strong>.<br/><br/>És un tribut a les tres tècniques d'elaboració de begudes, cada una representada amb una taula temàtica: <strong>Infusió, Fermentació i Destil·lació</strong>.<br/><br/>Volem recuperar la importància que el servei de begudes ha tingut als grans hotels al llarg de l'historia, però reinterpretant la seva cerimònia sota una particular visió gastronòmica. "
+    },
+    {
+      "id": "002",
+      "title": "Fermentació",
+      "class": "center",
+      "logo": "/static/fermentacio.svg",
+      "schedule": "<strong>HORARI</strong><br/>de 12 a 23 h.",
+      "bioText": "Concepte que aposta pels vins que atresoren autenticitat, tipicitat i naturalitat."
+    },
+    {
+      "id": "003",
+      "title": "Infusió",
+      "class": "center",
+      "logo": "/static/infusio.svg",
+      "schedule": "<strong>HORARI</strong><br/>de 8 a 23 h.",
+      "bioText": "Proposem elaboracions i combinacions equilibrades sota un gran rigor tècnic."
+    },
+    {
+      "id": "004",
+      "title": "Destilació",
+      "class": "center",
+      "logo": "/static/destilacio.svg",
+      "schedule": "<strong>HORARI DE COCTELERIA</strong><br/>de 18 a 2:00 h.<br/>Última copa 1:15 h.",
+      "bioText": "Reinterpretem la cocteleria clàssica i servim una precisa selecció dels millors destilats."
+    },
+    {
+      "id": "005",
+      "class": "center",
+      "title": "Menjar",
+      "logo": "/static/menjar.svg",
+      "schedule": "<strong>HORARI DE DINAR I SOPAR</strong><br/>de 12:30 a 16:00 h.<br/>i de 19:30 a 23:00 h.",
+      "bioText": "La proposta de begudes es completa amb una cuina basada en la gastronomia tradicional catalana i en clàssics internacionals en format informal elaborats amb productes locals, principalment de petits productors."
+    },
+    {
+      "id": "006",
+      "title": "Què significa MA'I?",
+      "class": "left",
+      "bioText": "Artur Martínez sempre signa com 'I'am'. <strong>MA'I</strong> és I'am a l'inrevés. Una altra relació amb la seva personalitat. Però també fa honor als seus orígens professionals, doncs són la suma de les inicials de Maite, Arturo i Isabel: mare, pare i àvia, dels que va heretar la passió culinària i amb els que va caminar els seus primers passos com a cuiner. Va agradar la seva ambigüitat ('Mai') i que és una paraula amb tres lletres, com les tres taules temàtiques que confirmen el concepte. També era curta i contundent, i el seu apòstrof atorgava un company simbòlic a la dièresi de Aürt."
+    }
+  ]
+}

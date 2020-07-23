@@ -1,0 +1,31 @@
+{
+  "id": "bodega",
+  "title": "Bodega",
+  "subtitle": "Hemos basado<br/>nuestra carta de vinos en<br/>los siguientes criterios:",
+  "bodegaBlocks": [
+    {
+      "id": "001",
+      "name": "Naturalidad",
+      "title": "Vinos con pautas naturales y tradicionales de viticultura.",
+      "bodegaText": "Respetuosos con el entorno. Con procesos de vinificación, crianza y embotellado francos y naturales. Sin moldeados en bodega."
+    },
+    {
+      "id": "002",
+      "name": "Elegancia",
+      "title": "Referencias que armonicen con nuestra forma de cocinar.",
+      "bodegaText": "Que exista un gran entendimiento entre plato y vino. Elegantes, precisos y agradables, pero profundos y complejos."
+    },
+    {
+      "id": "003",
+      "name": "Artesanía",
+      "title": "Nos apasionan los pequeños proyectos.",
+      "bodegaText": "Románticos viticultores y enólogos no convencionales que creen firmemente en lo que hacen. Pero también defendemos el trabajo de algunas bodegas con mayores recursos que mantienen tradiciones ancestrales, que invierten en conceptos alternativos de calidad o que son capaces de sacar al mercado joyas de la enología independientemente de su volumen de producción. Pasión, tecnología y conocimientos al servicio de la autenticidad."
+    },
+    {
+      "id": "004",
+      "name": "Identidad",
+      "title": "Apostamos por la recuperación y la dignificación de variedades de uvas tradicionales.",
+      "bodegaText": "Vinos que lleven al límite las posibilidades organolépticas de cada una de ellas. Buscamos la tipicidad de cada zona productora y los atributos de cada parcela en concreto."
+    }
+  ]
+}

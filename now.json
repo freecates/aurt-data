@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "name": "aurtdata",
+  "routes": [
+    {
+      "src": "/static/.*",
+      "headers": { "access-control-allow-origin": "*" }
+    },
+    {
+      "src": "/data/.*",
+      "headers": { "access-control-allow-origin": "*" }
+    },
+    {
+      "src": "/.*",
+      "headers": { "access-control-allow-origin": "*" }
+    }
+  ]
+}

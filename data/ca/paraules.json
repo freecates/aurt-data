@@ -1,0 +1,55 @@
+{
+  "id": "paraules",
+  "title": "Paraules",
+  "subtitle": "by Artur Martínez",
+  "palabras": [
+    {
+      "id": "001",
+      "frase": "La passió és al mateix temps les ales i la llosa. El nostre secret ha estat volar sense moure'ns del terra."
+    },
+    {
+      "id": "002",
+      "frase": "El negoci familiar és un univers que només tu entens, encara que només a estones"
+    },
+    {
+      "id": "003",
+      "frase": "Quan vaig començar érem pocs cuiners que aspiràvem a xefs. Ara són molts xefs que aspiren a cuiners"
+    },
+    {
+      "id": "004",
+      "frase": "Tot el que cuines és millorable. I el que millor cuines és opinable. No pots agradar a tothom."
+    },
+    {
+      "id": "005",
+      "frase": "El primer impuls del bon cuiner ha de ser dominar l'intern en lloc de descobrir l'extern"
+    },
+    {
+      "id": "006",
+      "frase": "Tenim un seriós problema si es valora més l'embolcall que el regal"
+    },
+    {
+      "id": "007",
+      "frase": "Hem de reeducar al client. En l'alta gastronomia no tot són focs artificials."
+    },
+    {
+      "id": "008",
+      "frase": "En l'ombra hi ha una bellesa oculta. De vegades la llum és encegadora"
+    },
+    {
+      "id": "009",
+      "frase": "Un cuiner sense recursos dóna per a molt si veu en el límit un repte"
+    },
+    {
+      "id": "010",
+      "frase": "El bon cuiner és un rebel amb causa"
+    },
+    {
+      "id": "011",
+      "frase": "Els discursos no han de tenir coartada. La millor cuina és una orgia de proves"
+    },
+    {
+      "id": "012",
+      "frase": "Un comensal descontent triga el mateix a escriure un correu electrònic al restaurant que a redactar una crítica a TripAdvisor. La primera opció és constructiva i privada. La segona busca la notorietat popular i la venjança, ambdues disfressades en un fals compromís públic."
+    }
+  ]
+}

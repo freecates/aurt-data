@@ -1,0 +1,55 @@
+{
+  "id": "words",
+  "title": "Words",
+  "subtitle": "by Artur Martínez",
+  "palabras": [
+    {
+      "id": "001",
+      "frase": "The passion is at the same time the wings and the slab. Our secret has been to fly without moving from the ground."
+    },
+    {
+      "id": "002",
+      "frase": "The family business is a universe that only you understand, but only at times"
+    },
+    {
+      "id": "003",
+      "frase": "When I started we were few cooks who aspired to be chefs. Now there are many chefs who aspire to cook"
+    },
+    {
+      "id": "004",
+      "frase": "Everything you cook is open to improvement. What you cook the best is debatable. You cannot please everyone."
+    },
+    {
+      "id": "005",
+      "frase": "The first impulse of a good cook must be to dominate the internal instead of discovering the external."
+    },
+    {
+      "id": "006",
+      "frase": "We have a serious problem if the package is valued more than the gift"
+    },
+    {
+      "id": "007",
+      "frase": "We must re-educate the client. In high gastronomy, not everything is fireworks."
+    },
+    {
+      "id": "008",
+      "frase": "In the shadow there is a hidden beauty. Sometimes  light is blinding"
+    },
+    {
+      "id": "009",
+      "frase": "A cook without resources gives much more if he sees a challenge in the limit"
+    },
+    {
+      "id": "010",
+      "frase": "The good cook is a rebel with a cause"
+    },
+    {
+      "id": "011",
+      "frase": "Speeches should not have an alibi. The best kitchen is an orgy of tests"
+    },
+    {
+      "id": "012",
+      "frase": "A disgruntled eater takes the same time writing an email to the restaurant as writing a review on TripAdvisor. The first option is constructive and private. The second seeks popular notoriety and revenge, both disguised"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "equipo",
+  "title": "Equipo",
+  "introText": "Para este proyecto <strong>Artur Martínez</strong> recupera parte del equipo de la última etapa de Capritx y miembros de otras etapas. Jóvenes profesionales comprometidos con su profesión y con nuestra genética gastronómica. Además se incorporan profesionales de gran experiencia, técnica y proyección.",
+  "memberBlocks": [
+    {
+      "id": "001",
+      "picture": "/static/equip/pol-ruiz-masip-aurt-web.jpg",
+      "name": "Pol Ruiz",
+      "title": "Jefe de cocina",
+      "memberText": "Joviat, Bardeni, Capritx, Disfrutar, Rasoterra, Sant Pau Tokio, La Taverna del Ciri, Alkimia",
+      "secondMemberText": "Premio a la Creatividad Concurso de Cocina de Catalunya 2016 (Sant Pol)",
+      "instagram": "polruizmasip"
+    },
+    {
+      "id": "002",
+      "picture": "/static/equip/marc-cano-aurt-web.jpg",
+      "name": "Marc Cano",
+      "title": "2º cocina",
+      "memberText": "Cett, Capritx, Sant Pau Tokio, La Taverna del Ciri, Alkimia",
+      "secondMemberText": "Finalista Concurso Nacional de Cocina",
+      "instagram": "marccano3"
+    },
+    {
+      "id": "003",
+      "picture": "/static/equip/xavi-romero-aurt-web.jpg",
+      "name": "Xavi Romero",
+      "title": "Cocina",
+      "memberText": "Cavall Bernat, Capritx, Alkimia, Vivanda, Topik"
+    },
+    {
+      "id": "004",
+      "picture": "/static/equip/alba-llacena-aurt-web.jpg",
+      "name": "Alba Llacera",
+      "title": "Cocina dulce",
+      "memberText": "EHTB, Capritx, Tickets, Heart, Pakta"
+    },
+    {
+      "id": "005",
+      "picture": "/static/equip/mario-diana-aurt-web.jpg",
+      "name": "Mario Diana",
+      "title": "Sommelier",
+      "memberText": "Ais London, Abac, Disfrutar"
+    },
+    {
+      "id": "006",
+      "picture": "/static/equip/joel-gomez-aurt-web.jpg",
+      "name": "Joel Gómez",
+      "title": "Sommelier",
+      "memberText": "Cavall Bernat, Capritx, Cett Sommelier, La Taverna Del Ciri, Enigma"
+    }
+  ]
+}

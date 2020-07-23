@@ -1,0 +1,25 @@
+{
+  "id": "adreça",
+  "title": "Adreça",
+  "class": "left",
+  "direccionBlocks": [
+    {
+      "id": "001",
+      "class": "center",
+      "bioText": "<a href='https://www3.hilton.com/en/hotels/spain/hilton-diagonal-mar-barcelona-BCNDMHI/index.html target='_blank'>HILTON DIAGONAL MAR BARCELONA</a></Link><br />Passeig del Taulat 262-264<br/>08019 BARCELONA<br/>(SPAIN)<br />TEL: +34 935 070 860<br />FAX: +34 935 070 700<br/><a href='mailto:reservas@aurtrestaurant.com'>reservas@aurtrestaurant.com</a>"
+    },
+    {
+      "id": "002",
+      "title": "<img src='/static/parking.svg' style='width:29px;height:29px;vertical-align:top;'/> Aparcament gratuït per als clients d'AÜRT,<br/>accés directe al restaurant",
+      "class": "center"
+    },
+    {
+      "id": "003",
+      "bioText": "<img src='/static/coordenades.svg' style='width:1.1975rem;height:1.9rem;vertical-align:text-top;'/> 41.408678, 2.217427",
+      "logo": "/static/aurt-web-mapa.passeig-de-taulat.jpg",
+      "lat": "41.408678",
+      "lng": "2.217427",
+      "class": "center"
+    }
+  ]
+}

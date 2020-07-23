@@ -1,0 +1,50 @@
+{
+  "id": "mai",
+  "title": "MAI",
+  "logo": "/static/logo-mai-daurat-web.png",
+  "class": "left",
+  "maiBlocks": [
+    {
+      "id": "001",
+      "bioText": "<strong>AÜRT</strong> cohabita con un concepto más informal llamado <strong>MA'I</strong>.<br/><br/>Es un tributo a las tres técnicas de elaboración de bebidas, cada una representada con una mesa temática: <strong>Infusión, Fermentación y Destilación</strong>.<br/><br/>Queremos recuperar la importancia que el servicio de tragos ha tenido en los grandes hoteles a lo largo de la historia, pero reinterpretando su ceremonia bajo una particular visión gastronómica. La propuesta de bebidas se completa con una oferta culinaria inspirada en la identidad territorial."
+    },
+    {
+      "id": "002",
+      "title": "Fermentación",
+      "class": "center",
+      "logo": "/static/fermentacio.svg",
+      "schedule": "<strong>HORARIO</strong><br/>de 12 a 23 h.",
+      "bioText": "Concepto que apuesta por los vinos que atesoran autenticidad, tipicidad y naturalidad."
+    },
+    {
+      "id": "003",
+      "title": "Infusión",
+      "class": "center",
+      "logo": "/static/infusio.svg",
+      "schedule": "<strong>HORARIO</strong><br/>de 8 a 23 h.",
+      "bioText": "Proponemos elaboraciones y combinaciones equilibradas bajo un gran rigor técnico."
+    },
+    {
+      "id": "004",
+      "title": "Destilación",
+      "class": "center",
+      "logo": "/static/destilacio.svg",
+      "schedule": "<strong>HORARIO DE COCTELERÍA</strong><br/>de 18  a 2:00 h.<br/>Última copa 1:15 h.",
+      "bioText": "Reinterpretamos la coctelería clásica y servimos una precisa selección de los mejores destilados."
+    },
+    {
+      "id": "005",
+      "class": "center",
+      "title": "Comida",
+      "logo": "/static/menjar.svg",
+      "schedule": "<strong>HORARIO DE COMIDAS Y CENAS</strong><br/>de 12:30 a 16:00 h.<br/>y de 19:30 a 23:00 h.",
+      "bioText": "La propuesta de bebidas se completa con una cocina basada en la gastronomía tradicional catalana y en clásicos internacionales en formato informal elaborados con productos locales, principalmente de pequeños productores."
+    },
+    {
+      "id": "006",
+      "title": "¿Qué significa MA'I?",
+      "class": "left",
+      "bioText": "Artur Martínez siempre firma como 'i'am'. <strong>MA'I</strong> es I'AM al revés. Otra relación con su personalidad. Pero también hace honor a sus orígenes profesionales, pues son la suma de las iniciales de Maite, Arturo e Isabel: madre, padre y abuela, de los que heredó la pasión culinaria y con los que caminó sus primeros pasos como cocinero. Gustó su ambigüedad ('Nunca') y que es una palabra con tres letras, como las tres mesas temáticas que confirman el concepto. También era corta y contundente, y su apóstrofo otorgaba un compañero simbólico a la diéresis de Aürt."
+    }
+  ]
+}

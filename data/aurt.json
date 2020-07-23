@@ -1,0 +1,38 @@
+{
+  "id": "aurt",
+  "title": "Aürt",
+  "logo": "/static/logo-aurt-web.svg",
+  "aurtBlocks": [
+    {
+      "id": "001",
+      "title": "Una palabra…",
+      "bioText": "<strong>Aürt</strong> es una palabra que expresa perfectamente el “exotismo de proximidad” que inspira la cocina de Artur Martínez. Aparentemente exótico, es un término catalán sin traducción que significa ir a chocar bruscamente contra algo. Corto, rotundo y directo. Es un nombre poco conocido y utilizado. El vocablo data del siglo XIII y su origen es incierto, probablemente prerromano e indoeuropeo, de una base muy desarrollada en celta. Un enraizamiento lingüístico como el de Artur con sus orígenes. Además, ambos comparten las mismas letras. La diéresis (dos puntos) simboliza un 2.0., como la obsesión del chef de evolucionar."
+    },
+    {
+      "id": "002",
+      "title": "Un espacio...",
+      "bioText": "<strong>Aürt</strong> es un espacio dónde profesional y comensal conviven e interactúan. Dónde ofrecemos nuestra particular visión gastronómica. La voluntad es ser transparente mediante una escenografía acorde a la esencial forma de cocinar de Artur. Tanto ensayo como función se desarrollarán en pleno lobby del Hotel Hilton Diagonal Mar, a la vista de todos. Cocinamos la mayoría de platos en las mismas dos mesas que albergan un total de 15 comensales."
+    },
+    {
+      "id": "003",
+      "title": "Cohabita con un concepto más informal llamado",
+      "logo": "/static/logo-mai-web.svg",
+      "bioText": "<div class='center'><a href='/mai'>¿Quieres saber más?</a></div>"
+    },
+    {
+      "id": "004",
+      "title": "Una forma...",
+      "bioText": "<strong>Personalidad</strong>, una forma de pensar. <strong>Identidad</strong>, una forma de ser. <strong>Naturalidad</strong>, una forma de tratar. <strong>Calidez</strong>, una forma de sentir. <strong>Sencillez</strong> una forma de hacer. <strong>Evolución</strong>, una forma de soñar."
+    },
+    {
+      "id": "005",
+      "title": "Un lobby",
+      "bioText": "El gran valor añadido que nos ofrecía el hotel Hilton Diagonal Mar era la transparencia absoluta de desarrollar nuestro trabajo a la vista de todo el mundo.<br/><br/>Entre la informalidad y la seriedad protocolaria hay un espacio que queremos trabajar. Informal significa dos cosas: algo que no tiene seriedad o protocolo, y algo que no respeta las normas ni cumple sus compromisos. Nosotros somos serios con la responsabilidad que supone cubrir cualquier expectativa del comensal, por pequeña que sea. Y respetamos un protocolo interno. Pero reinterpretaremos las normas establecidas por la alta gastronomía que no nos gustan."
+    },
+    {
+      "id": "006",
+      "title": "Un lugar",
+      "bioText": "Diagonal Mar y el Front Marítim del Poblenou se ha convertido en una zona moderna, tranquila y bien comunicada. Así que ofrece una desconexión sobre la masificación de la Barcelona turística."
+    }
+  ]
+}

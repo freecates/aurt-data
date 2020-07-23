@@ -1,0 +1,31 @@
+{
+  "id": "cellar",
+  "title": "Cellar",
+  "subtitle": "We have based<br/>our wine list on the<br/>following criteria:",
+  "bodegaBlocks": [
+    {
+      "id": "001",
+      "name": "Naturality",
+      "title": "Wines with natural and traditional viticultural guidelines.",
+      "bodegaText": "Respectful with the environment. With francs and natural vinification, aging and bottling processes. Without moldings in the cellar."
+    },
+    {
+      "id": "002",
+      "name": "Elegance",
+      "title": "References that harmonize with our way of cooking.",
+      "bodegaText": "That there is a great understanding between plate and wine. Elegants, precise and pleasant, but deep and complex."
+    },
+    {
+      "id": "003",
+      "name": "Artisanal",
+      "title": "We are passionate about small projects.",
+      "bodegaText": "Romantic viticulturist and unconventional winemakers who firmly believe in what they do. But we also defend the work of some wineries with greater resources that maintain ancestral traditions, that invest in alternative quality concepts or that are capable of bringing gems of oenology to the market regardless of their production volume. Passion, technology and knowledge at the service of authenticity."
+    },
+    {
+      "id": "004",
+      "name": "Identity",
+      "title": "We are committed to the recovery and dignification of traditional grape varieties.",
+      "bodegaText": "Wines that take the organoleptic possibilities to the limit. We look for the typicity of each production area and the attributes of each parcel in particular."
+    }
+  ]
+}

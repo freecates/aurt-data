@@ -1,0 +1,25 @@
+{
+  "id": "aurt",
+  "title": "Horarios",
+  "class": "left",
+  "horariosBlocks": [
+    {
+      "id": "001",
+      "title": "Reservas",
+      "class": "center",
+      "bioText": "De 13:00 a 14:30 h.<br/>De 20:30 a 22:30 h."
+    },
+    {
+      "id": "002",
+      "title": "Cerrado",
+      "class": "center",
+      "bioText": "Domingos y lunes<br/>Martes al mediodía<br/>Días festivos nacionales"
+    },
+    {
+      "id": "003",
+      "title": "Vacaciones",
+      "class": "center",
+      "bioText": "Del 6 al 29 de agosto<br/>Del 24 de diciembre al 16 de enero"
+    }
+  ]
+}

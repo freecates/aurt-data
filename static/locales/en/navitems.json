@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "name": "Genetics",
+    "items": [
+      {
+        "id": 101,
+        "name": "Beginnings",
+        "path": "/en/beginnings"
+      },
+      {
+        "id": 102,
+        "name": "Artur",
+        "path": "/en/artur"
+      },
+      {
+        "id": 103,
+        "name": "Gastronomy",
+        "path": "/en/gastronomy"
+      },
+      {
+        "id": 104,
+        "name": "Aürt",
+        "path": "/en/aurt"
+      },
+      {
+        "id": 105,
+        "name": "Team",
+        "path": "/en/team"
+      },
+      {
+        "id": 106,
+        "name": "Words",
+        "path": "/en/words"
+      },
+      {
+        "id": 107,
+        "name": "Blog",
+        "path": "/en/items"
+      }
+    ],
+    "class": "left"
+  },
+  {
+    "id": 2,
+    "name": "Menu",
+    "path": "/en/menu",
+    "class": "left"
+  },
+  {
+    "id": 3,
+    "name": "Cellar",
+    "path": "/en/cellar",
+    "class": "left"
+  },
+  {
+    "id": 4,
+    "name": "Gallery",
+    "path": "/en/gallery",
+    "class": "right"
+  },
+  {
+    "id": 5,
+    "name": "Ma'i",
+    "path": "/en/mai",
+    "class": "right"
+  },
+  {
+    "id": 6,
+    "name": "Contact",
+    "items": [
+      {
+        "id": 601,
+        "name": "Opening Hours",
+        "path": "/en/openings"
+      },
+      {
+        "id": 602,
+        "name": "Address",
+        "path": "/en/address"
+      },
+      {
+        "id": 603,
+        "name": "Work with us",
+        "path": "/trabaja-con-nosotros"
+      }
+    ],
+    "class": "right"
+  },
+  {
+    "id": 7,
+    "name": "Reservation",
+    "path": "/en/reservation",
+    "class": "starred"
+  }
+]

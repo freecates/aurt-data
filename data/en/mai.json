@@ -1,0 +1,50 @@
+{
+  "id": "mai",
+  "title": "MAI",
+  "logo": "/static/logo-mai-daurat-web.png",
+  "class": "left",
+  "maiBlocks": [
+    {
+      "id": "001",
+      "bioText": "<strong>AÜRT</strong> cohabits with a more informal concept called <strong>MA'I</strong>.<br/><br/>It is a tribute to the three techniques of making drinks, each one represented with a thematic table: <strong>Infusion, Fermentation and Distillation</strong>.<br/><br/>We want to recover the importance that the service of drinks has had in the big hotels throughout history, but reinterpreting their ceremony under a particular gastronomic vision.The drink proposal is completed with a culinary offer inspired by the territorial identity."
+    },
+    {
+      "id": "002",
+      "title": "Fermentation",
+      "class": "center",
+      "logo": "/static/fermentacio.svg",
+      "schedule": "<strong>HOURS</strong><br/>from 12:00 to 23:00",
+      "bioText": "Concept that bets on wines that treasure authenticity, typicality and naturalness."
+    },
+    {
+      "id": "003",
+      "title": "Infusion",
+      "class": "center",
+      "logo": "/static/infusio.svg",
+      "schedule": "<strong>HOURS</strong><br/>from 8:00 a.m. to 8:00 p.m.",
+      "bioText": "We propose elaborations and balanced combinations under a great technical rigor."
+    },
+    {
+      "id": "004",
+      "title": "Distillation",
+      "class": "center",
+      "logo": "/static/destilacio.svg",
+      "schedule": "<strong>COCKTAIL BAR TIMINGS</strong><br/>from 18 to 2:00 h.<br/>Last drink 1:15 h.",
+      "bioText": "We reinterpret classic cocktails and serve a precise selection of the best spirits."
+    },
+    {
+      "id": "005",
+      "class": "center",
+      "title": "Meals",
+      "logo": "/static/menjar.svg",
+      "schedule": "<strong>LUNCH AND DINNER TIMINGS</strong><br/>from 12:30 to 16:00 h.<br/>and from 19:30 to 23:00 h.",
+      "bioText": "The drink proposal is completed with a cuisine based on traditional Catalan cuisine and international classics in an informal format made with local products, mainly from small producers."
+    },
+    {
+      "id": "006",
+      "title": "What does MA'I mean?",
+      "class": "left",
+      "bioText": "Artur Martínez always signs as 'i'am'. <strong>MA'I</strong> is I'aM backwards. Another relationship with his personality. But it also honors his professional origins, since they are the sum of the initials of Maite, Arturo and Isabel: mother, father and grandmother, from whom he inherited the culinary passion and with whom he walked his first steps as a chef. He liked his ambiguity ('Never') and that it is a word with three letters, like the three thematic tables that confirm the concept. It was also short and forceful, and its apostrophe granted a symbolic companion to the umlaut of Aürt."
+    }
+  ]
+}

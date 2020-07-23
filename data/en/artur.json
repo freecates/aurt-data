@@ -1,0 +1,125 @@
+{
+  "id": "artur",
+  "title": "Artur",
+  "subTitle": "www.byArturMartinez.com",
+  "instagram": "arturmartinez_aurt",
+  "picture": "/static/equip/artur-martinez-aurt-web.jpg",
+  "bioBlocks": [
+    {
+      "id": "001",
+      "bioText": "<strong>El Buen Gusto. Family business</strong><br/>founded in 1952"
+    },
+    {
+      "id": "002",
+      "bioText": "<strong><a href=' https://www.joviat.com' target='_blank' rel='noopener'>Joviat School of Manresa</a></strong><br/>1993/1998"
+    },
+    {
+      "id": "003",
+      "bioText": "<strong><a href='https://santpol.edu.es/home/presentacion/concurso-cuina-jove-de-catalunya/' target='_blank' rel='noopener'>Winner of the XIII Young Chefs Competition of Catalonia</a></strong><br/>1998"
+    },
+    {
+      "id": "004",
+      "bioText": "<strong>Professor School of High Hospitality and Tourism of Maresme</strong><br/>1998/2000"
+    },
+    {
+      "id": "005",
+      "bioText": "<strong><a href='https://www.grupovips.com/' target='_blank' rel='noopener'>Executive Chef Grupo Vips Madrid</a></strong><br/>2000/2001"
+    },
+    {
+      "id": "006",
+      "bioText": "<strong><a href='https://www.uab.cat/web/uab-school-for-tourism-hotel-management-eutdh-1345712139065.html'>Professor School of Hotel Management Autonomous University</a></strong><br/>2002/2005"
+    },
+    {
+      "id": "007",
+      "bioText": "<strong>Capritx Restaurant. Family business</strong><br/>2002"
+    },
+    {
+      "id": "008",
+      "bioText": "<strong>Young Entrepreneurs Award</strong><br/>2004"
+    },
+    {
+      "id": "009",
+      "bioText": "<strong><a href='http://www.premiscambra.com/'>Cambra de Terrassa Innovation Award</a></strong><br/>2006"
+    },
+    {
+      "id": "010",
+      "bioText": "<strong><a href='http://www.cuinavalles.cat/'>Co-founder Cuina Vallès</a></strong><br/>2006"
+    },
+    {
+      "id": "011",
+      "bioText": "<strong>Guide to Restaurants of Catalonia 10 Restaurants of Greater Projection</strong><br/>2007"
+    },
+    {
+      "id": "012",
+      "bioText": "<strong><a href='http://visitaterrassa.cat/en/terrassagastronomica/'>Co-founder Terrassa Gastronòmica</a></strong><br/>2008"
+    },
+    {
+      "id": "013",
+      "bioText": "<strong>Nomination for Best Chef of the Year</strong><br/>2008"
+    },
+    {
+      "id": "014",
+      "bioText": "<strong><a href='http://visitaterrassa.cat/en/terregada-sausage-2/'>Recovery Earthy Botifarra (Xavi Casanovas)</a></strong><br/>2008"
+    },
+    {
+      "id": "015",
+      "bioText": "<strong>Slow Food</strong><br/>2009"
+    },
+    {
+      "id": "016",
+      "bioText": "<strong><a href='http://visitaterrassa.cat/en/martialis-wine/'>Co-founder of the Martialis vineyard project (Família Morral)</a></strong><br/>2010"
+    },
+    {
+      "id": "017",
+      "bioText": "<strong><a href='https://www.cellercanmorral.cat/es/inicio/21-l-oblit.html'>Co-founder of L'Oblit oil project (Familia Morral)</a></strong><br/>2010"
+    },
+    {
+      "id": "018",
+      "bioText": "<strong><a href='https://guide.michelin.com'>1 Michelin Star</a></strong><br/>2010"
+    },
+    {
+      "id": "019",
+      "bioText": "<strong><a href='https://www.joviat.com'>Escola Joviat Professional Career Award</a></strong><br/>2012)"
+    },
+    {
+      "id": "020",
+      "bioText": "<strong>Co-creator works 'Però es pot saber què has menjat?' TNT (Pep Pla)</strong><br/>2012"
+    },
+    {
+      "id": "021",
+      "bioText": "<strong>Book 'La Cuina del Vallès Occidental'</strong><br/>2013"
+    },
+    {
+      "id": "022",
+      "bioText": "<strong>Creator of 'Gaudim Menjant!' For primary school children</strong><br/>2013/2014"
+    },
+    {
+      "id": "023",
+      "bioText": "<strong>1 Sol Repsol</strong><br/>2014"
+    },
+    {
+      "id": "024",
+      "bioText": "<strong>Best Opening of Barcelona Gastronomistas (Juanjo Martínez)</strong><br/>2014"
+    },
+    {
+      "id": "025",
+      "bioText": "<strong>Co-founder of Colatura de primavera Callol Serrats (Marc Ribas)</strong><br/>2017"
+    },
+    {
+      "id": "026",
+      "bioText": "<strong><a href='http://www.latavernadelciri.com/es/'>Co-founder La Taverna del Ciri (Marc Ribas)</a></strong><br/>2018"
+    },
+    {
+      "id": "027",
+      "bioText": "<strong><a href='http://www.lesmillorscrispetes.com'>Les Millors Crispetes Cinemas Full</a></strong><br/>2018"
+    },
+    {
+      "id": "028",
+      "bioText": "<strong><a href='https://www3.hilton.com/en/hotels/spain/hilton-diagonal-mar-barcelona-BCNDMHI/dining/index.html'>Ma’i Concept</a></strong><br/>2019"
+    },
+    {
+      "id": "029",
+      "bioText": "<strong>Aürt Restaurant</strong><br/>2019"
+    }
+  ]
+}

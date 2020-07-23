@@ -1,0 +1,31 @@
+{
+  "id": "celler",
+  "title": "Celler",
+  "subtitle": "Hem basat<br/>la nostra carta de vins en<br/>en els següents criteris:",
+  "bodegaBlocks": [
+    {
+      "id": "001",
+      "name": "Naturalitat",
+      "title": "Vins amb pautes naturals i tradicionals de viticultura.",
+      "bodegaText": "Respectuosos amb l’entorn. Amb processos de vinificació, criança i embotellat francs i naturals. Sense modelats al celler."
+    },
+    {
+      "id": "002",
+      "name": "Elegància",
+      "title": "Referències que harmonitzin amb la nostra forma de cuinar.",
+      "bodegaText": "Que existeixi una gran entesa entre plat i vi.<br/>Elegants, precisos i agradables, però profunds i complexos."
+    },
+    {
+      "id": "003",
+      "name": "Artesania",
+      "title": "Ens apassionen els petits projectes.",
+      "bodegaText": "Romàntics viticultors i enòlegs no convencionals que creuen fermament en el que fan. Però també defensem el treball d’alguns cellers amb majors recursos que mantenen tradicions ancestrals, que inverteixen en conceptes alternatius de qualitat o que són capaces de treure al mercat joies de l’enologia independentment del seu volum de producció. Passió, tecnologia i coneixements al servei de l’autenticitat."
+    },
+    {
+      "id": "004",
+      "name": "Identitat",
+      "title": "Apostem per la recuperació i la dignificació de varietats de raïms tradicionals.",
+      "bodegaText": "Vins que portin al límit les possibilitats organolèptiques de cadascuna d’elles. Busquem la tipicitat de cada zona productora i els atributs de cada parcel·la en concret."
+    }
+  ]
+}
