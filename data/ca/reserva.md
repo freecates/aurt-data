@@ -16,9 +16,8 @@
 
 **CONDICIONS DE MODIFICACIÓ O CANCELACIÓ**
 
-- Es poden sol·licitar canvis en una reserva confirmada amb un mínim de 3 dies d’antelació. Aquests canvis estaran subjectes a la disponibilitat del restaurant. Haurà de comunicar-se amb nosaltres a través de reserves@aurtrestaurant.com o telefonant al +34 935 070 860.
+- Es poden sol·licitar canvis en una reserva confirmada amb un mínim de 3 dies d’antelació. Aquests canvis estaran subjectes a la disponibilitat del restaurant. Haurà de comunicar-se amb nosaltres a través de reservas@aurtrestaurant.com o telefonant al +34 935 070 860.
 - El nostre departament de reserves realitzarà una trucada telefònica de confirmació o cancel•lació un dia abans de la reserva.
-- De no rebre resposta a 12 hores de la data i hora pacta, procedirem a informar de la cancel•lació de la seva reserva mitjançant correu electrònic.
 - Les reserves no són nominals pel que poden ser traspassades pel client a altres persones en cas de no poder complir els terminis de la política de reserves i cancel•lacions.
 - Pel bé del servei, la seva experiència gastronòmica i la conciliació laboral, és important la puntualitat.
 - La reserva comporta l’acceptació de les condicions i la política de cancel•lacions.
