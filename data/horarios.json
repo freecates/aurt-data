@@ -7,19 +7,13 @@
       "id": "001",
       "title": "Reservas",
       "class": "center",
-      "bioText": "De 13:00 a 14:30 h.<br/>De 20:30 a 22:00 h."
-    },
-    {
-      "id": "002",
-      "title": "Cerrado",
-      "class": "center",
-      "bioText": "Domingos y lunes<br/>Martes al mediodía<br/>Días festivos nacionales"
+      "bioText": "Jueves, viernes y sábados noche de 20:30 a 22:00 h.<br/>Sábados al mediodía de 13:00 a 14:30 h.<br/>Días festivos nacionales cerrado."
     },
     {
       "id": "003",
       "title": "Vacaciones",
       "class": "center",
-      "bioText": "Del 6 al 29 de agosto<br/>Del 24 de diciembre al 16 de enero"
+      "bioText": "Sin especificar, hasta nuevo aviso."
     }
   ]
 }

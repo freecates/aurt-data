@@ -7,19 +7,13 @@
       "id": "001",
       "title": "Reserves",
       "class": "center",
-      "bioText": "De 13 a 14:30 h<br/>De 20.30 a 22.00 h."
-    },
-    {
-      "id": "002",
-      "title": "Tancat",
-      "class": "center",
-      "bioText": "Diumenges i dilluns<br/>Dimarts al migdia<br/>Dies festius nacionals"
+      "bioText": "Dijous, divendres i dissabtes nit de 20.30 a 22.00 h<br/>Dissabtes al migdia de 13.00 a 14.30 h<br/>Dies festius nacionals tancat."
     },
     {
       "id": "003",
       "title": "Vacances",
       "class": "center",
-      "bioText": "Del 6 al 29 d'agonst<br/>Del 24 de desembre al 16 de gener"
+      "bioText": "Sense especificar, fins a nou avís."
     }
   ]
 }
