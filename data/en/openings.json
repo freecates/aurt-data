@@ -7,19 +7,13 @@
       "id": "001",
       "title": "Reservations",
       "class": "center",
-      "bioText": "From 13 to 14:30 h<br/>From 20:30 to 22:00 h."
-    },
-    {
-      "id": "002",
-      "title": "Closed",
-      "class": "center",
-      "bioText": "Sunday and Monday<br/>Tuesday lunch time<br/>National Holidays"
+      "bioText": "Thursday, Friday and Saturday nights from 20:30 to 22:00 h.<br/>Saturday lunch time de 13:00 a 14:30 h.<br/>National Holidays closed."
     },
     {
       "id": "003",
       "title": "Holidays",
       "class": "center",
-      "bioText": "From 6th to 29th of August<br/>From 24th of December to 16th of January"
+      "bioText": "Unspecified, until further notice."
     }
   ]
 }
