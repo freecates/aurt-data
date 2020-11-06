@@ -1,0 +1,18 @@
+{
+  "id": "pack",
+  "title": "<span>Pack</span><br/>Sopar <span>&</span><br/>Habitació",
+  "logo": "/static/logo-pack-web-ca.png",
+  "class": "left",
+  "packBlocks": [
+    {
+      "id": "001",
+      "title": "Viu l'experiència AÜRT + HILTON",
+      "class":"center",
+      "bioText": "Disfruta de nuestro Menú degustación a lcompleto y finaliza tu experiencia en una de las confortables habitaciones del Hilton Diagonal Mar Barcelona,con desayuno incluido."
+    },{
+      "id": "002",
+      "class":"center no-spacing",
+      "bioText": "Esta oferta incluye el Menú degustación Aürt para 2 personas (bebidas no incluidas) y una noche de alojamiento en el Hotel Hilton Diagonal Mar Barcelona, con desayuno incluido. Consulta las condiciones al hacer la reserva."
+    }
+  ]
+}
