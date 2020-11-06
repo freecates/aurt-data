@@ -1,6 +1,6 @@
 {
   "id": "pack",
-  "title": "Pack Cena & Habitación",
+  "title": "<span>Pack</span><br/>Cena &<br/>Habitación",
   "logo": "/static/logo-pack-web-es.png",
   "class": "left",
   "packBlocks": [
