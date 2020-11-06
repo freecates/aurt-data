@@ -59,7 +59,7 @@
     },
     {
       "id": "014",
-      "bioText": "<strong><a href='http://visitaterrassa.cat/es/butifarra-terregada/'>Recuperación Botifarra Terregada (Xavi Casanovas)</a></strong><br/>2008"
+      "bioText": "<strong><a href='http://visitaterrassa.cat/es/butifarra-terregada/'>Recuperación Botifarra Terregada</a></strong><br/>2008"
     },
     {
       "id": "015",
@@ -67,11 +67,11 @@
     },
     {
       "id": "016",
-      "bioText": "<strong><a href='http://visitaterrassa.cat/es/vino-martialis/'>Cofundador proyecto vitícola Martialis (Familia Morral)</a></strong><br/>2010"
+      "bioText": "<strong><a href='http://visitaterrassa.cat/es/vino-martialis/'>Cofundador proyecto vitícola Martialis</a></strong><br/>2010"
     },
     {
       "id": "017",
-      "bioText": "<strong><a href='https://www.cellercanmorral.cat/es/inicio/21-l-oblit.html'>Cofundador proyecto aceite L’Oblit (Familia Morral)</a></strong><br/>2010"
+      "bioText": "<strong><a href='https://www.cellercanmorral.cat/es/inicio/21-l-oblit.html'>Cofundador proyecto aceite L’Oblit</a></strong><br/>2010"
     },
     {
       "id": "018",
@@ -83,7 +83,7 @@
     },
     {
       "id": "020",
-      "bioText": "<strong>Co-creador obra 'Però es pot saber què has menjat?' (Pep Pla) TNT</strong><br/>2012"
+      "bioText": "<strong>Co-creador obra 'Però es pot saber què has menjat?' TNT</strong><br/>2012"
     },
     {
       "id": "021",
@@ -99,15 +99,15 @@
     },
     {
       "id": "024",
-      "bioText": "<strong>Mejor Apertura de Barcelona Gastronomistas (Juanjo Martínez)</strong><br/>2014"
+      "bioText": "<strong>Mejor Apertura de Barcelona Gastronomistas</strong><br/>2014"
     },
     {
       "id": "025",
-      "bioText": "<strong>Cofundador de Colatura de Primavera Callol Serrats (Marc Ribas)</strong><br/>2017"
+      "bioText": "<strong>Cofundador de Colatura de Primavera Callol Serrats</strong><br/>2017"
     },
     {
       "id": "026",
-      "bioText": "<strong><a href='http://www.latavernadelciri.com/es/'>Cofundador La Taverna del Ciri (Marc Ribas)</a></strong><br/>2018"
+      "bioText": "<strong><a href='http://www.latavernadelciri.com/es/'>Cofundador La Taverna del Ciri</a></strong><br/>2018"
     },
     {
       "id": "027",
@@ -120,6 +120,18 @@
     {
       "id": "029",
       "bioText": "<strong>Aürt Restaurant</strong><br/>2019"
+    },
+    {
+      "id": "030",
+      "bioText": "<strong>Restaurante con mejor diseño de Europa</strong><br/>2019"
+    },
+    {
+      "id": "031",
+      "bioText": "<strong>Estrella Michelin</strong><br/>2020"
+    },
+    {
+      "id": "032",
+      "bioText": "<strong>Sol Repsol</strong><br/>2020"
     }
   ]
 }
