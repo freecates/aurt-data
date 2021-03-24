@@ -2,7 +2,7 @@
 
 - La mesa no está confirmada hasta la recepción del correo electrónico de CONFIRMACIÓN DE RESERVA.
 - No trabajamos mesas superiores a 6 comensales.
-- Únicamente gestionamos reservas con 2 meses de antelación.
+- Únicamente gestionamos reservas con 4 meses de antelación.
 - Confeccionaremos un menú personalizado a partir de las peticiones del cliente.
 - Puede darse el caso en que las sumas de alergias e intolerancias sean imposibles de gestionar por nuestro equipo, impidiendo garantizar una experiencia fiel a nuestra gastronomía.
 - En ese caso ponemos a su disposición Ma’i, el concepto más informal adjunto, y su carta con detalles de alérgenos.
@@ -16,8 +16,17 @@
 
 **CONDICIONES DE MODIFICACIÓN O CANCELACIÓN**
 
-- Se pueden solicitar cambios en una reserva confirmada con un mínimo de 3 días de antelación. Dichos cambios estarán sujetos a la disponibilidad del restaurante. Deberá comunicarse con nosotros a través de reservas@aurtrestaurant.com o llamando al +34 935 070 860.
+- La confirmación de la reserva conlleva la aceptación de las condiciones y la política de
+cancelaciones
+- Se pueden solicitar cambios en una reserva confirmada con un mínimo de 2 días de antelación.
+Dichos cambios estarán sujetos a la disponibilidad del restaurante. Deberá comunicarse con
+nosotros a través de [reservas@aurtrestaurant.com](mailto:reservas@aurtrestaurant.com).
+- Somos un restaurante con un aforo muy limitado, para exclusivamente 15 comensales. A
+diferencia de otros restaurantes con mayor capacidad, cualquier cancelación sin un mínimo
+de margen de maniobra para promocionar plazas libres es extremadamente traumática para
+nuestra empresa. Es por ello que, en caso de no presentarse a la reserva sin previo aviso o de
+cancelación comunicada con un mínimo de 3 horas de antelación, procederemos al cobro de
+50 € por comensal mediante la tarjeta de crédito facilitada previamente por el cliente.
 - Nuestro departamento de reservas realizará una llamada telefónica de confirmación o cancelación un día antes de la reserva.
 - Las reservas no son nominales por lo que pueden ser traspasadas por el cliente a otras personas en caso de no poder cumplir los plazos de la política de reservas y cancelaciones.
 - Por el bien del servicio, su experiencia gastronómica y la conciliación laboral, es importante la puntualidad.
-- La reserva conlleva la aceptación de las condiciones y la política de cancelaciones.

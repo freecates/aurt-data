@@ -2,7 +2,7 @@
 
 - The table is not confirmed until the customer receive the RESERVATION CONFIRMATION email.
 - We do not work tables with more than 6 people.
-- We only manage reservations with a maximum of 2 months in advance.
+- We only manage reservations with a maximum of 4 months in advance.
 - We will make a personalized menu based on the client’s requests.
 - It may be the case that the amounts of allergies and intolerances are impossible to manage by our team, preventing guarantee an experience faithful to our cuisine.
 - In that case, we offer you Ma’i, the most informal concept attached, and your letter with details of allergens.
@@ -10,7 +10,7 @@
 - The table is not confirmed until the customer receive the RESERVATION CONFIRMATION eCONDITIONS OF RESERVATION
 - The table is not confirmed until the customer receive the RESERVATION CONFIRMATION email.
 - We do not work tables with more than 6 people.
-- We only manage reservations with a maximum of 2 months in advance.
+- We only manage reservations with a maximum of 4 months in advance.
 - We will make a personalized menu based on the client’s requests.
 - It may be the case that the amounts of allergies and intolerances are impossible to manage by our team, preventing guarantee an experience faithful to our cuisine.
 - In that case, we offer you Ma’i, the most informal concept attached, and your letter with details of allergens.
@@ -30,8 +30,6 @@
 
 **CONDITIONS OF MODIFICATION OR CANCELLATION**
 
-- Changes can be requested in a confirmed reservation with a minimum of 3 days in advance. These changes will be subject to the availability of the restaurant. You must contact us through reservas@aurtrestaurant.com or by calling +34 935 070 860.
 - Our reservations department will make a confirmation or cancellation phone call one day before the reservation.
 - The reserves are not nominal, so they can be transferred by the client to other people in case of not being able to meet the terms of the reservation and cancellation policy.
 - Punctuality is important for the good of the service, its gastronomic experience and work conciliation.
-- The reservation implies acceptance of the conditions and cancellation policy
