@@ -29,17 +29,17 @@
     },
     {
       "id": "004",
-      "picture": "/static/equip/ivan-garcia-aurt-web.jpg",
-      "name": "Iván Garcia",
+      "picture": "/static/equip/arnau-cespedes-aurt-web.jpg",
+      "name": "Aranu Cespedes",
       "title": "Kitchen",
-      "memberText": "EHTB, Disfrutar, Els Garrofers, Mint, Zero Zapatero"
+      "memberText": "Escola Hosteleria i Turisme de Girona, Mosaic, Barrrafina (Londres), Les Magnolies, Ma'i"
     },
     {
       "id": "005",
-      "picture": "/static/equip/alba-llacena-aurt-web.jpg",
-      "name": "Alba Llacera",
+      "picture": "/static/equip/pedro-huamani-aurt-web.jpg",
+      "name": "Pedro Huamaní",
       "title": "Pastry",
-      "memberText": "EHTB, Capritx, Tickets, Heart, Pakta"
+      "memberText": "Le Cordon Bleu (Lima), Hotel Monasterio (Cusco), Sant Pau, Hotel Pullmann Skipper, Ma'i"
     },
     {
       "id": "006",
@@ -50,6 +50,13 @@
     },
     {
       "id": "007",
+      "picture": "/static/equip/mara-fanni-aurt-web.jpg",
+      "name": "Mara Fanni",
+      "title": "Sommelier",
+      "memberText": "Adriano Olivetti Iis, Associazione Italiana di Sommelier, Eshob, A di Alice (Monza), J'ys (Colmar), Mextizo"
+    },
+    {
+      "id": "008",
       "picture": "/static/equip/alina-bulavina-aurt-web.jpg",
       "name": "Alina Bulavina",
       "title": "Dinning room",
