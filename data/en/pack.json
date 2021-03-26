@@ -1,6 +1,6 @@
 {
   "id": "pack",
-  "title": "<span>Pack</span><br/>Dinner <span>&</span><br/>Room",
+  "title": "<span>Pack</span><br/>Menu <span>&</span><br/>Room",
   "logo": "/static/logo-pack-web-en.png",
   "class": "left",
   "packBlocks": [
