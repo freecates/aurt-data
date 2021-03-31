@@ -13,43 +13,31 @@
     },
     {
       "id": "003",
-      "frase": "Cuando empecé éramos pocos cocineros que aspirábamos a chefs. Ahora son muchos chefs que aspiran a cocineros"
-    },
-    {
-      "id": "004",
-      "frase": "Todo lo que cocinas es mejorable. Y lo que mejor cocinas es opinable. No puedes gustar a todos."
-    },
-    {
-      "id": "005",
       "frase": "El primer impulso del buen cocinero debe ser dominar lo interno en lugar de descubrir lo externo"
     },
     {
-      "id": "006",
+      "id": "004",
       "frase": "Tenemos un serio problema si se valora más el envoltorio que el regalo"
     },
     {
-      "id": "007",
+      "id": "005",
       "frase": "Debemos reeducar al cliente. En la alta gastronomía no todo son fuegos artificiales."
     },
     {
-      "id": "008",
+      "id": "006",
       "frase": "En la sombra existe una belleza oculta. A veces la luz es cegadora"
     },
     {
-      "id": "009",
+      "id": "007",
       "frase": "Un cocinero sin recursos da para mucho si ve en el límite un reto"
     },
     {
-      "id": "010",
+      "id": "008",
       "frase": "El buen cocinero es un rebelde con causa"
     },
     {
-      "id": "011",
+      "id": "009",
       "frase": "Los discursos no deben tener coartada. La mejor cocina es una orgía de pruebas"
-    },
-    {
-      "id": "012",
-      "frase": "Un comensal descontento tarda lo mismo en escribir un email al restaurante que en redactar una crítica en TripAdvisor. La primera opción es constructiva y privada. La segunda busca la notoriedad popular y la venganza, ambas disfrazadas en un falso compromiso público."
     }
   ]
 }
