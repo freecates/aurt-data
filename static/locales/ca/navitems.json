@@ -67,6 +67,11 @@
         "id": 501,
         "name": "Pack Menú&Habitació",
         "path": "/ca/pack"
+      },
+      {
+        "id": 502,
+        "name": "Regala Menú Aürt",
+        "path": "/ca/regala"
       }
     ],
     "class": "right"
