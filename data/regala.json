@@ -6,13 +6,34 @@
   "regalaBlocks": [
     {
       "id": "001",
-      "title": "Vive la experiencia AÜRT + HILTON",
+      "title": "Alta gastronomía a corta distancia",
       "class":"center",
-      "bioText": "Disfruta de nuestro Menú degustación al completo y finaliza tu experiencia en una de las confortables habitaciones del Hilton Diagonal Mar Barcelona,con desayuno incluido."
-    },{
+      "bioText": "Artur Martínez"
+    },
+    {
       "id": "002",
       "class":"center no-spacing",
-      "bioText": "Esta oferta incluye el Menú degustación Aürt para 2 personas (bebidas no incluidas) y una noche de alojamiento en el Hotel Hilton Diagonal Mar Barcelona, con desayuno incluido. Consulta las condiciones al hacer la reserva."
+      "bioText": "Regalar nuestro Menú Degustación es regalar una experiencia inolvidable."
+    },
+    {
+      "id": "003",
+      "class":"center no-spacing",
+      "bioText": "Complementa el Menú Aürt con el Maridaje de vinos y la Tabla de quesos y así disfrutarán de la experiencia completa."
+    },
+    {
+      "id": "004",
+      "class":"center no-spacing",
+      "bioText": "Generaremos una TARJETA REGALO PERSONALIZADA con el nombre de la persona a quien quieres hacer el regalo y la cantidad de comensales que están invitados."
+    },
+    {
+      "id": "005",
+      "class":"center no-spacing",
+      "bioText": "La persona que reciba la tarjeta deberá contactar previamente con nosotros para acordar día y hora de la reserva."
+    },
+    {
+      "id": "006",
+      "class":"center no-spacing",
+      "bioText": "Consulta las condiciones al hacer la reserva."
     }
   ]
 }
