@@ -1,0 +1,18 @@
+{
+  "id": "regala",
+  "title": "<span>Regala</span><br/>Menú Aürt",
+  "logo": "/static/logo-gift-web-ca.png",
+  "class": "left",
+  "packBlocks": [
+    {
+      "id": "001",
+      "title": "Alta gastronomia a curta distància",
+      "class":"center",
+      "bioText": "Artur Martínez"
+    },{
+      "id": "002",
+      "class":"center no-spacing",
+      "bioText": "Regalar el nostre Menú Degustació és regalar una experiència inoblidable."
+    }
+  ]
+}
