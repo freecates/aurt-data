@@ -3,7 +3,7 @@
   "title": "<span>Regala</span><br/>Menú Aürt",
   "logo": "/static/logo-gift-web-ca.png",
   "class": "left",
-  "packBlocks": [
+  "regalaBlocks": [
     {
       "id": "001",
       "title": "Alta gastronomia a curta distància",
