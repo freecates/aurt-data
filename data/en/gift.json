@@ -1,9 +1,9 @@
 {
-  "id": "pack",
+  "id": "gift",
   "title": "<span>Gift</span><br/>Menu Aürt",
   "logo": "/static/logo-gift-web-en.png",
   "class": "left",
-  "packBlocks": [
+  "giftBlocks": [
     {
       "id": "001",
       "title": "Sh or t dist ance high gast ro no my",
