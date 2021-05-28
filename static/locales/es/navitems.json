@@ -61,8 +61,14 @@
   },
   {
     "id": 5,
-    "name": "Pack",
-    "path": "/pack",
+    "name": "Regala",
+    "items": [
+      {
+        "id": 501,
+        "name": "Pack",
+        "path": "/pack"
+      }
+    ],
     "class": "right"
   },
   {
