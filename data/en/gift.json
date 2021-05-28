@@ -1,0 +1,39 @@
+{
+  "id": "pack",
+  "title": "<span>Gift</span><br/>Menu Aürt",
+  "logo": "/static/logo-gift-web-en.png",
+  "class": "left",
+  "packBlocks": [
+    {
+      "id": "001",
+      "title": "Sh or t dist ance high gast ro no my",
+      "class":"center",
+      "bioText": "Artur Martínez"
+    },
+    {
+      "id": "002",
+      "class":"center no-spacing",
+      "bioText": "Give away our Tasting Menu is to give away an unforgettable experience."
+    },
+    {
+      "id": "003",
+      "class":"center no-spacing",
+      "bioText": "Complement the Aürt Menu with our Wines Selection pairing and the Cheese plate and so they will enjoy the full experience."
+    },
+    {
+      "id": "004",
+      "class":"center no-spacing",
+      "bioText": "We will generate a PERSONALIZED VOUCHER with the name of the person to whom you want to make the gift and the amount of people who are invited."
+    },
+    {
+      "id": "005",
+      "class":"center no-spacing",
+      "bioText": "The person who receives the Voucher must contact us in advance to agree on the day and time of the reservation."
+    },
+    {
+      "id": "006",
+      "class":"center no-spacing",
+      "bioText": "Check the conditions of reservation when booking."
+    }
+  ]
+}

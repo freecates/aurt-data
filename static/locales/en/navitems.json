@@ -67,6 +67,11 @@
         "id": 501,
         "name": "Pack Menu&Room",
         "path": "/en/pack"
+      },
+      {
+        "id": 502,
+        "name": "Gift Aürt Menu",
+        "path": "/en/gift"
       }
     ],
     "class": "right"
