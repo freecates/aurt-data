@@ -13,6 +13,22 @@
       "id": "002",
       "class":"center no-spacing",
       "bioText": "Regalar el nostre Menú Degustació és regalar una experiència inoblidable."
+    },{
+      "id": "003",
+      "class":"center no-spacing",
+      "bioText": "Complementa el Menú Aürt amb el Maridatge de vins i la Taula de formatges i així gaudiran de l’experiència completa."
+    },{
+      "id": "004",
+      "class":"center no-spacing",
+      "bioText": "Generarem una TARGETA REGAL PERSONALITZADA amb el nom de la persona a qui vols fer el regal i la quantitat de comensals que estan convidats."
+    },{
+      "id": "005",
+      "class":"center no-spacing",
+      "bioText": "La persona que rebi la targeta haurà de contactar prèviament amb nosaltres per acordar dia i hora de la reserva."
+    },{
+      "id": "006",
+      "class":"center no-spacing",
+      "bioText": "Consulta les condicions al fer la reserva."
     }
   ]
 }
