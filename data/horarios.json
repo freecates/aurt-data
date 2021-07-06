@@ -4,10 +4,10 @@
   "class": "left",
   "horariosBlocks": [
     {
-      "id": "001",
-      "title": "Reservas",
-      "class": "center",
-      "bioText": "Viernes y sábados<br/>de 13:00 a 14:00h. y de 19:30 a 22:00h<br/>(servicio de noche solo para clientes que duerman en el Hotel)"
+        "id": "001",
+        "title": "Reservas",
+        "class": "center",
+        "bioText": "Jueves, viernes y sábados<br/>al mediodía de 13:00 a 13:30h. y noche a las 20:30h."
     },
     {
       "id": "003",
