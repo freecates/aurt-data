@@ -1,107 +1,96 @@
 [
-  {
-    "id": 1,
-    "name": "Genética",
-    "items": [
-      {
-        "id": 101,
-        "name": "Origen",
-        "path": "/origen"
-      },
-      {
-        "id": 102,
-        "name": "Artur",
-        "path": "/artur"
-      },
-      {
-        "id": 103,
-        "name": "Gastronomía",
-        "path": "/gastronomia"
-      },
-      {
-        "id": 104,
-        "name": "Aürt",
-        "path": "/aurt"
-      },
-      {
-        "id": 105,
-        "name": "Equipo",
-        "path": "/equipo"
-      },
-      {
-        "id": 106,
-        "name": "Palabras",
-        "path": "/palabras"
-      },
-      {
-        "id": 107,
-        "name": "Blog",
-        "path": "/items"
-      }
-    ],
-    "class": "left"
-  },
-  {
-    "id": 2,
-    "name": "Menú",
-    "path": "/menu",
-    "class": "left"
-  },
-  {
-    "id": 3,
-    "name": "Bodega",
-    "path": "/bodega",
-    "class": "left"
-  },
-  {
-    "id": 4,
-    "name": "Galería",
-    "path": "/galeria",
-    "class": "right"
-  },
-  {
-    "id": 5,
-    "name": "Regala",
-    "items": [
-      {
-        "id": 501,
-        "name": "Pack Menú&Habitación",
-        "path": "/pack"
-      },
-      {
-        "id": 502,
-        "name": "Regala Menú Aürt",
-        "path": "/regala"
-      }
-    ],
-    "class": "right"
-  },
-  {
-    "id": 6,
-    "name": "Contacto",
-    "items": [
-      {
-        "id": 601,
-        "name": "Horarios",
-        "path": "/horarios"
-      },
-      {
-        "id": 602,
-        "name": "Dirección",
-        "path": "/direccion"
-      },
-      {
-        "id": 603,
-        "name": "Trabaja con nosotros",
-        "path": "/trabaja-con-nosotros"
-      }
-    ],
-    "class": "right"
-  },
-  {
-    "id": 7,
-    "name": "Reserva",
-    "path": "/reserva",
-    "class": "starred"
-  }
+    {
+        "id": 1,
+        "name": "Genética",
+        "items": [
+            {
+                "id": 101,
+                "name": "Origen",
+                "path": "/origen"
+            },
+            {
+                "id": 102,
+                "name": "Artur",
+                "path": "/artur"
+            },
+            {
+                "id": 103,
+                "name": "Gastronomía",
+                "path": "/gastronomia"
+            },
+            {
+                "id": 104,
+                "name": "Aürt",
+                "path": "/aurt"
+            },
+            {
+                "id": 105,
+                "name": "Equipo",
+                "path": "/equipo"
+            },
+            {
+                "id": 106,
+                "name": "Palabras",
+                "path": "/palabras"
+            },
+            {
+                "id": 107,
+                "name": "Blog",
+                "path": "/items"
+            }
+        ],
+        "class": "left"
+    },
+    {
+        "id": 2,
+        "name": "Menú",
+        "path": "/menu",
+        "class": "left"
+    },
+    {
+        "id": 3,
+        "name": "Bodega",
+        "path": "/bodega",
+        "class": "left"
+    },
+    {
+        "id": 4,
+        "name": "Galería",
+        "path": "/galeria",
+        "class": "right"
+    },
+    {
+        "id": 5,
+        "name": "Regala",
+        "path": "/regala",
+        "class": "right"
+    },
+    {
+        "id": 6,
+        "name": "Contacto",
+        "items": [
+            {
+                "id": 601,
+                "name": "Horarios",
+                "path": "/horarios"
+            },
+            {
+                "id": 602,
+                "name": "Dirección",
+                "path": "/direccion"
+            },
+            {
+                "id": 603,
+                "name": "Trabaja con nosotros",
+                "path": "/trabaja-con-nosotros"
+            }
+        ],
+        "class": "right"
+    },
+    {
+        "id": 7,
+        "name": "Reserva",
+        "path": "/reserva",
+        "class": "starred"
+    }
 ]

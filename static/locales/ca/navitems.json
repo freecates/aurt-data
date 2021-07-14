@@ -1,107 +1,96 @@
 [
-  {
-    "id": 1,
-    "name": "Genètica",
-    "items": [
-      {
-        "id": 101,
-        "name": "Origen",
-        "path": "/ca/origen"
-      },
-      {
-        "id": 102,
-        "name": "Artur",
-        "path": "/ca/artur"
-      },
-      {
-        "id": 103,
-        "name": "Gastronomia",
-        "path": "/ca/gastronomia"
-      },
-      {
-        "id": 104,
-        "name": "Aürt",
-        "path": "/ca/aurt"
-      },
-      {
-        "id": 105,
-        "name": "Equip",
-        "path": "/ca/equip"
-      },
-      {
-        "id": 106,
-        "name": "Paraules",
-        "path": "/ca/paraules"
-      },
-      {
-        "id": 107,
-        "name": "Blog",
-        "path": "/ca/items"
-      }
-    ],
-    "class": "left"
-  },
-  {
-    "id": 2,
-    "name": "Menú",
-    "path": "/ca/menu",
-    "class": "left"
-  },
-  {
-    "id": 3,
-    "name": "Celler",
-    "path": "/ca/celler",
-    "class": "left"
-  },
-  {
-    "id": 4,
-    "name": "Galeria",
-    "path": "/ca/galeria",
-    "class": "right"
-  },
-  {
-    "id": 5,
-    "name": "Regala",
-    "items": [
-      {
-        "id": 501,
-        "name": "Pack Menú&Habitació",
-        "path": "/ca/pack"
-      },
-      {
-        "id": 502,
-        "name": "Regala Menú Aürt",
-        "path": "/ca/regala"
-      }
-    ],
-    "class": "right"
-  },
-  {
-    "id": 6,
-    "name": "Contacte",
-    "items": [
-      {
-        "id": 601,
-        "name": "Horaris",
-        "path": "/ca/horaris"
-      },
-      {
-        "id": 602,
-        "name": "Adreça",
-        "path": "/ca/adreca"
-      },
-      {
-        "id": 603,
-        "name": "Treballa amb nosaltres",
-        "path": "/trabaja-con-nosotros"
-      }
-    ],
-    "class": "right"
-  },
-  {
-    "id": 7,
-    "name": "Reserva",
-    "path": "/ca/reserva",
-    "class": "starred"
-  }
+    {
+        "id": 1,
+        "name": "Genètica",
+        "items": [
+            {
+                "id": 101,
+                "name": "Origen",
+                "path": "/ca/origen"
+            },
+            {
+                "id": 102,
+                "name": "Artur",
+                "path": "/ca/artur"
+            },
+            {
+                "id": 103,
+                "name": "Gastronomia",
+                "path": "/ca/gastronomia"
+            },
+            {
+                "id": 104,
+                "name": "Aürt",
+                "path": "/ca/aurt"
+            },
+            {
+                "id": 105,
+                "name": "Equip",
+                "path": "/ca/equip"
+            },
+            {
+                "id": 106,
+                "name": "Paraules",
+                "path": "/ca/paraules"
+            },
+            {
+                "id": 107,
+                "name": "Blog",
+                "path": "/ca/items"
+            }
+        ],
+        "class": "left"
+    },
+    {
+        "id": 2,
+        "name": "Menú",
+        "path": "/ca/menu",
+        "class": "left"
+    },
+    {
+        "id": 3,
+        "name": "Celler",
+        "path": "/ca/celler",
+        "class": "left"
+    },
+    {
+        "id": 4,
+        "name": "Galeria",
+        "path": "/ca/galeria",
+        "class": "right"
+    },
+    {
+        "id": 5,
+        "name": "Regala",
+        "path": "/ca/regala",
+        "class": "right"
+    },
+    {
+        "id": 6,
+        "name": "Contacte",
+        "items": [
+            {
+                "id": 601,
+                "name": "Horaris",
+                "path": "/ca/horaris"
+            },
+            {
+                "id": 602,
+                "name": "Adreça",
+                "path": "/ca/adreca"
+            },
+            {
+                "id": 603,
+                "name": "Treballa amb nosaltres",
+                "path": "/trabaja-con-nosotros"
+            }
+        ],
+        "class": "right"
+    },
+    {
+        "id": 7,
+        "name": "Reserva",
+        "path": "/ca/reserva",
+        "class": "starred"
+    }
 ]
