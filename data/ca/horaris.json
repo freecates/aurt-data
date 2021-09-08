@@ -3,17 +3,23 @@
   "title": "Horaris",
   "class": "left",
   "horariosBlocks": [
-    {
-        "id": "001",
-        "title": "Reserves",
-        "class": "center",
-        "bioText": "Dijous, divendres i dissabtes<br/>al migdia de 13.00 a 13.30h i nit a les 20.30h."
-    },
-    {
-      "id": "003",
-      "title": "Vacances",
-      "class": "center",
-      "bioText": "de l'1 d'agost al 8 de setembre"
-    }
+      {
+          "id": "001",
+          "title": "Reserves",
+          "class": "center",
+          "bioText": "Dijous, divendres i dissabtes al migdia de 13.00 a 13.30h.<br/>De dimecres a dissabte per la nit a les 20.30h."
+      },
+      {
+          "id": "002",
+          "title": "Tancat",
+          "class": "center",
+          "bioText": "Diumenge, dilluns, dimarts, i dimecres al migdia tancat."
+      },
+      {
+          "id": "003",
+          "title": "Vacances",
+          "class": "center",
+          "bioText": "de l'1 d'agost al 8 de setembre"
+      }
   ]
 }
