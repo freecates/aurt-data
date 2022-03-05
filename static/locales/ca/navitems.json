@@ -30,11 +30,6 @@
             },
             {
                 "id": 106,
-                "name": "Paraules",
-                "path": "/ca/paraules"
-            },
-            {
-                "id": 107,
                 "name": "Blog",
                 "path": "/ca/items"
             }

@@ -30,11 +30,6 @@
             },
             {
                 "id": 106,
-                "name": "Palabras",
-                "path": "/palabras"
-            },
-            {
-                "id": 107,
                 "name": "Blog",
                 "path": "/items"
             }
