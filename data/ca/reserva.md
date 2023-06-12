@@ -5,14 +5,12 @@
 - Únicament gestionem reserves amb 4 mesos d’antelació.
 - Confeccionarem un menú personalitzat a partir de les peticions del client.
 - Pot donar-se el cas en què les sumes d’al·lèrgies i intoleràncies siguin impossibles de gestionar pel nostre equip, impedint garantir una experiència fidel a la nostra gastronomia.
-- En aquest cas posem a la seva disposició Ma’i, el concepte més informal adjunt, i la seva carta amb detalls d’al·lergens.
 - El menú publicat o comunicat pot variar en funció de la temporalitat, qualitat i proveïment dels aliments.
 - El menú és indivisible i per comensal.
 - No disposem de menús vegetarians, vegans, infantils o reduïts, ni carta de plats.
 - Els menús confeccionats segons indicacions del comensal no podran modificar-se després de la trucada de confirmació 24 hores de la reserva. El nostre concepte es basa en una organització estricta del menú i el seu servei.
 - El servei i emplatat es desenvolupen en la seva majoria al davant al comensal. Disposem d’una taula allunyada per a gaudir de major intimitat. Ha de ser reservada amb antelació.
 - Preguem als fumadors que informin prèviament l’equip si en algun moment desitgen interrompre el servei per a fumar a fi de garantir un ritme òptim i la major precisió en les nostres elaboracions.
-- L’experiència conclou en les àrees de Destil·lació i Infusió, on prendre cafè, infusions i/o copes de la carta de Ma’i. Durant la temporada, també oferim la possibilitat de finalitzar la vetllada a Purobeach, a la terrassa de l’hotel, així com a la terrassa de Ma’i.
 
 **CONDICIONS DE MODIFICACIÓ O CANCELACIÓ**
 
