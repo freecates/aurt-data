@@ -57,7 +57,7 @@
     {
         "id": 5,
         "name": "Regala",
-        "path": "/regala",
+        "path": null,
         "class": "right"
     },
     {
