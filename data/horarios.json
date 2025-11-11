@@ -5,21 +5,9 @@
   "horariosBlocks": [
       {
           "id": "001",
-          "title": "Reservas",
+          "title": "Cerrado temporalmente por traslado",
           "class": "center",
-          "bioText": "Jueves, viernes y sábados al mediodía de 13:00 a 13:30h.<br/>De miércoles a sábado por la noche a las 20:30h."
-      },
-      {
-          "id": "002",
-          "title": "Cerrado",
-          "class": "center",
-          "bioText": "Domingo, lunes, martes, y miércoles al mediodía cerrado."
-      },
-      {
-          "id": "003",
-          "title": "Vacaciones",
-          "class": "center",
-          "bioText": "del 1 de agosto al 8 de septiembre"
+          "bioText": "info@aurtrestaurant.com"
       }
   ]
 }

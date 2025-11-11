@@ -70,11 +70,6 @@
                 "path": "/horarios"
             },
             {
-                "id": 602,
-                "name": "Dirección",
-                "path": "/direccion"
-            },
-            {
                 "id": 603,
                 "name": "Trabaja con nosotros",
                 "path": "/trabaja-con-nosotros"

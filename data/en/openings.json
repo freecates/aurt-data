@@ -5,21 +5,9 @@
   "horariosBlocks": [
       {
           "id": "001",
-          "title": "Reservations",
+          "title": "Temporarily closed due to relocation",
           "class": "center",
-          "bioText": "Thursday, Friday and Saturday at noon from 13:00 to 13:30h.<br/>From Wednesday to Saturday night at 20:30h."
-      },
-      {
-          "id": "002",
-          "title": "Closed",
-          "class": "center",
-          "bioText": "Sunday, Monday, Tuesday, and Wednesday at noon closed."
-      },
-      {
-          "id": "003",
-          "title": "Holidays",
-          "class": "center",
-          "bioText": "from August 1 to September"
+          "bioText": "info@aurtrestaurant.com"
       }
   ]
 }
