@@ -1,5 +1,3 @@
-**POLÍTICA DE PRIVACITAT DEL LLOC WEB**
-
 **1. POLÍTICA DE PRIVACITAT I PROTECCIÓ DE DADES**
 
 Respectant el que estableix la legislació vigent, la web d 'AÜRT (en endavant, també Lloc Web) es compromet a adoptar les mesures tècniques i organitzatives necessàries, segons el nivell de seguretat adequat al risc de les dades recollides.

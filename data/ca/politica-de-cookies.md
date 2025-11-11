@@ -1,5 +1,3 @@
-**POLÍTICA DE COOKIES**
-
 L'accés a aquest Lloc Web pot implicar la utilització de cookies. Les cookies són petites quantitats d'informació que s'emmagatzemen en el navegador utilitzat per cada Usuari —en els diferents dispositius que pugui utilitzar per navegar— perquè el servidor recordi certa informació que posteriorment i únicament el servidor que la va implementar llegirà. Les cookies faciliten la navegació, la fan més amigable, i no malmeten el dispositiu de navegació.
 
 Les cookies són procediments automàtics de recollida d'informació relativa a les preferències determinades per l'Usuari durant la seva visita al Lloc Web per tal de reconèixer-lo com a Usuari, i personalitzar la seva experiència i l'ús del Lloc Web, i poden també, per exemple, ajudar a identificar i resoldre errors.

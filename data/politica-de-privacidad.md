@@ -1,5 +1,3 @@
-**POLÍTICA DE PRIVACIDAD DEL SITIO WEB**
-
 **1. POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS**
 
 Respetando lo establecido en la legislación vigente, la web de AÜRT (en adelante, también Sitio Web) se compromete a adoptar las medidas técnicas y organizativas necesarias, según el nivel de seguridad adecuado al riesgo de los datos recogidos.

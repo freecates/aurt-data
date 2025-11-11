@@ -1,5 +1,3 @@
-**WEBSITE PRIVACY POLICY**
-
 **1. PRIVACY AND DATA PROTECTION POLICY**
 
 In compliance with the provisions of current legislation, the AÜRT  website (hereinafter also referred to as the Website) undertakes to adopt the necessary technical and organisational measures, according to the level of security appropriate to the risk of the data collected.

@@ -1,5 +1,3 @@
-**COOKIES POLICY**
-
 Access to this Website may involve the use of cookies. Cookies are small amounts of information that are stored in the browser used by each User – on the different devices that may be used to browse – so that the server remembers certain information that will later be read only by the server that implemented it. Cookies make browsing easier, friendlier, and do not damage your browsing device.
 
 Cookies are automatic procedures for collecting information relating to the preferences determined by the User during their visit to the Website in order to recognise them as a User, and to personalise their experience and use of the Website, and they can also, for example, help to identify and resolve errors.
